@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {},
+    "extends": "expo/tsconfig.base",
+    "prettier.ignore": ["product.mock.js"],
+    "exclude": ["services"]
+}
